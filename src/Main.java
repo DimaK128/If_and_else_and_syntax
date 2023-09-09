@@ -9,7 +9,7 @@ public class Main {
                 System.out.println("Good morning.");
             } else if (time >= 12 && time <= 17) {
                 System.out.println("Good day.");
-            } else if (time <= 17 && time >= 22) {
+            } else if (time >= 18 && time <= 22) {
                 System.out.println("Good evening.");
             } else {
                 System.out.println("Good night");
